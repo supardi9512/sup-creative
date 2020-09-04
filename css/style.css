@@ -481,10 +481,10 @@ body {
 
 .header__logo__text {
   float: left;
-  line-height: 50px;
+  line-height: 5rem;
   color: #fff;
   margin-left: 10px;
-  font-size: 30px;
+  font-size: 3rem;
 }
 
 .header__text--box {
